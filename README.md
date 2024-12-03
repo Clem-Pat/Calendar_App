@@ -13,7 +13,10 @@ The goal is to let the user know when and where they last invited a guest and wh
 - V1.1: Link a FireBase process to log in.
 - V1.2: Link with an AWS container to lower the server hosting price.
 
-![ImageApp](/Resources/icon.png)
+
+<img src="/Resources/icon.png" alt="Image 1" width="200"/>
+Icon of the app
+
 
 ## Authors
 
