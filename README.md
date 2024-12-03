@@ -4,8 +4,7 @@ A personal challenge to code a flutter calendar app (Android and IOS)
 ## Demo
 The goal is to let the user know when and where they last invited a guest and what set they served that day. 
 
-![](/Resources/demo.gif)
-
+<img src="/Resources/demo.gif" alt="Image 1" width="200"/>
 
 ## Versions Historic
 
