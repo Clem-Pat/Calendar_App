@@ -14,8 +14,12 @@ The goal is to let the user know when and where they last invited a guest and wh
 - V1.2: Link with an AWS container to lower the server hosting price.
 
 
+## Architecture diagram
+<img src="/Resources/diagram.png" alt="Image 1" width="400"/>
+
+
+## Icon of the app
 <img src="/Resources/icon.png" alt="Image 1" width="200"/>
-Icon of the app
 
 
 ## Authors
